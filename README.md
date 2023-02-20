@@ -68,10 +68,9 @@ The e2e tests are using Protractor and Jasmine.
 - [Express](https://expressjs.com/) - Javascript API Framework
 
 
-Open http://localhost:4200 in the browser. 
 
 ##front-end link :
--- http://omar-123-udagram.s3-website-us-east-1.amazonaws.com/
+-- http://omar-123-udagram.s3-website-us-east-1.amazonaws.com/](http://omar-123-udagram.s3-website-us-east-1.amazonaws.com/
 ## License
 
 
